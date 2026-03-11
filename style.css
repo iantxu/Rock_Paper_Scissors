@@ -7,3 +7,21 @@ body{
     display: flex;
     flex-direction: column;
 }
+.weapons {
+    display: flex;
+    flex-direction: row;
+}
+.scoreboard {
+    display: flex;
+    flex-direction: row;
+}
+.computer {
+    display: flex;
+    flex-direction: column;
+
+}
+.player {
+    display: flex;
+    flex-direction: column;
+
+}
