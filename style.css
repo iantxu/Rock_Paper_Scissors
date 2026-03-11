@@ -1,1 +1,9 @@
-
+body{
+    display: flex;
+    flex-direction: column;
+    
+}
+.head {
+    display: flex;
+    flex-direction: column;
+}
